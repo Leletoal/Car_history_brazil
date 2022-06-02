@@ -1,0 +1,64 @@
+
+
+body{
+    background-color: rgb(215, 199, 199);
+    
+}
+
+
+header{
+    color: 
+    whitesmoke;
+    background-color: rgb(171, 16, 16);
+    
+    font-family: Arial, Helvetica, sans-serif;
+
+
+   
+}
+
+
+nav{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+form{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.form.cd{
+    width: 100%;
+    max-width: 300px;
+    padding: 10px;
+    background-color: silver;
+    transform: translate(-50%, -50%);
+    top:50% ;
+    left: 50%;
+    position: absolute;
+    text-align: center;
+}
+
+form input[type="text"]{
+    width: 200px;
+    padding: 5px;
+    margin-top: 10px;
+    outline: 0;
+
+
+
+}
+form input[type="submit"]{
+    width: 180px;
+    padding: 5px;
+    margin-top: 10px;
+    outline: 0;
+    
+
+
+}
+
+.form.cd h2{
+    color: blue;
+}
